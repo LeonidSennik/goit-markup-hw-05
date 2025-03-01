@@ -592,12 +592,13 @@ left: 117px;}
 .footer-svg-icon{fill: #fff;
   height: 24px;
 width: 24px;}
-.footer-svg-text{
+.footer-svg-text{margin-bottom: 16px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;}
   .footer-form-list{display: flex;
+    gap:24px;
   }
 
