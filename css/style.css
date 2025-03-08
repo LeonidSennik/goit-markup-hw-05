@@ -553,8 +553,6 @@ fill: #f4f4fd; }
   letter-spacing: 0.04em;
   color: rgba(46, 47, 66, 0.4);}
   .footer-form{margin-left: 80px;
-    width: 100%;
-    height: 100%;
     position: relative;
   }
   .footer-label{}
@@ -566,7 +564,7 @@ fill: #f4f4fd; }
   background-color: transparent;
   outline: transparent;
   color: #fff;
-  margin-right: 24px;
+  
 
   font-weight: 400;
     font-size: 12px;
